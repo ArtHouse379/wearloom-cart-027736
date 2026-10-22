@@ -1,0 +1,33 @@
+AssetBasedConstructor
+donor: MarketAppDonor (app.market.donor)
+project: Wearloom Cart (anarimmagineinternationaluk.apparel.wearloomcart)
+prefix: ZGPN
+seed: 5373838843722568608
+app/src/main/java/app/market/donor/ui/composable/approot/bottombar -> v_bottom_bar_4
+app/src/main/java/app/market/donor/ui/composable/approot/topbar -> v_top_bar_1
+app/src/main/java/app/market/donor/ui/composable/screen/cart/card -> v_cart_card_2
+app/src/main/java/app/market/donor/ui/composable/screen/cart/summary -> v_cart_summary_1
+app/src/main/java/app/market/donor/ui/composable/screen/checkout/button -> v_checkout_button_3
+app/src/main/java/app/market/donor/ui/composable/screen/checkout/field -> v_checkout_field_3
+app/src/main/java/app/market/donor/ui/composable/screen/checkout/form -> v_checkout_form_2
+app/src/main/java/app/market/donor/ui/composable/screen/home/card -> v_card_medium2
+app/src/main/java/app/market/donor/ui/composable/screen/home/filter -> v_filter4
+app/src/main/java/app/market/donor/ui/composable/screen/home/slider -> v_slider6
+app/src/main/java/app/market/donor/ui/composable/screen/onboarding/controls -> v_onboarding_controls_2
+app/src/main/java/app/market/donor/ui/composable/screen/onboarding/icon -> v_onboarding_icon_2
+app/src/main/java/app/market/donor/ui/composable/screen/onboarding/text -> v_onboarding_text_1
+app/src/main/java/app/market/donor/ui/composable/screen/order/card -> v_order_card_1
+app/src/main/java/app/market/donor/ui/composable/screen/productdetails/benefits -> v_productdetails_benefits_5
+app/src/main/java/app/market/donor/ui/composable/screen/productdetails/button -> v_productdetails_button_5
+app/src/main/java/app/market/donor/ui/composable/screen/productdetails/description -> v_productdetails_description_1
+app/src/main/java/app/market/donor/ui/composable/screen/productdetails/header -> v_productdetails_header_1
+app/src/main/java/app/market/donor/ui/composable/screen/productdetails/image -> v_productdetails_image_4
+app/src/main/java/app/market/donor/ui/composable/screen/productdetails/layout -> v_productdetails_layout_1
+app/src/main/java/app/market/donor/ui/composable/screen/productdetails/snackbar -> v_productdetails_snackbar_3
+app/src/main/java/app/market/donor/ui/composable/screen/settings/card -> v_settings_card_2
+app/src/main/java/app/market/donor/ui/composable/screen/shared/loadingplaceholder -> v_loadingplaceholder_1
+app/src/main/java/app/market/donor/ui/composable/screen/shared/sectiontitle -> v_sectiontitle_2
+app/src/main/java/app/market/donor/ui/composable/screen/splash -> v_splash_1
+app/src/main/java/app/market/donor/ui/theme -> v_cp4344
+app/src/main/java/app/market/donor/ui/theme/dimens -> v_airy
+app/src/main/java/app/market/donor/ui/theme/typography -> v_font_classic
